@@ -1,0 +1,8 @@
+//Initial git for folder
+git init
+git remote add origin https://some/test.git
+
+//During development
+git add some.file
+git commit -m "Some comment"
+git push -u origin master
